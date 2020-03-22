@@ -1,0 +1,320 @@
+[
+    {
+        "id": 1,
+        "joke": "Hyaena hyaena",
+        "upvotes": 42,
+        "downvotes": 99
+    },
+    {
+        "id": 2,
+        "joke": "Pseudalopex gymnocercus",
+        "upvotes": 86,
+        "downvotes": 88
+    },
+    {
+        "id": 3,
+        "joke": "Vulpes vulpes",
+        "upvotes": 63,
+        "downvotes": 4
+    },
+    {
+        "id": 4,
+        "joke": "Bubalus arnee",
+        "upvotes": 40,
+        "downvotes": 59
+    },
+    {
+        "id": 5,
+        "joke": "Spermophilus armatus",
+        "upvotes": 44,
+        "downvotes": 24
+    },
+    {
+        "id": 6,
+        "joke": "Pseudalopex gymnocercus",
+        "upvotes": 97,
+        "downvotes": 28
+    },
+    {
+        "id": 7,
+        "joke": "Anthropoides paradisea",
+        "upvotes": 54,
+        "downvotes": 40
+    },
+    {
+        "id": 8,
+        "joke": "Spizaetus coronatus",
+        "upvotes": 38,
+        "downvotes": 3
+    },
+    {
+        "id": 9,
+        "joke": "Acrobates pygmaeus",
+        "upvotes": 65,
+        "downvotes": 75
+    },
+    {
+        "id": 10,
+        "joke": "Vulpes chama",
+        "upvotes": 5,
+        "downvotes": 31
+    },
+    {
+        "id": 11,
+        "joke": "Marmota monax",
+        "upvotes": 78,
+        "downvotes": 11
+    },
+    {
+        "id": 12,
+        "joke": "Spermophilus lateralis",
+        "upvotes": 80,
+        "downvotes": 25
+    },
+    {
+        "id": 13,
+        "joke": "Dacelo novaeguineae",
+        "upvotes": 11,
+        "downvotes": 58
+    },
+    {
+        "id": 14,
+        "joke": "Phoca vitulina",
+        "upvotes": 92,
+        "downvotes": 73
+    },
+    {
+        "id": 15,
+        "joke": "Numida meleagris",
+        "upvotes": 80,
+        "downvotes": 83
+    },
+    {
+        "id": 16,
+        "joke": "Crotaphytus collaris",
+        "upvotes": 41,
+        "downvotes": 36
+    },
+    {
+        "id": 17,
+        "joke": "Tayassu pecari",
+        "upvotes": 30,
+        "downvotes": 19
+    },
+    {
+        "id": 18,
+        "joke": "Hymenolaimus malacorhynchus",
+        "upvotes": 67,
+        "downvotes": 51
+    },
+    {
+        "id": 19,
+        "joke": "Pituophis melanaleucus",
+        "upvotes": 3,
+        "downvotes": 84
+    },
+    {
+        "id": 20,
+        "joke": "Tursiops truncatus",
+        "upvotes": 56,
+        "downvotes": 16
+    },
+    {
+        "id": 21,
+        "joke": "Felis concolor",
+        "upvotes": 41,
+        "downvotes": 80
+    },
+    {
+        "id": 22,
+        "joke": "Lasiodora parahybana",
+        "upvotes": 70,
+        "downvotes": 53
+    },
+    {
+        "id": 23,
+        "joke": "Procyon lotor",
+        "upvotes": 80,
+        "downvotes": 72
+    },
+    {
+        "id": 24,
+        "joke": "Pteronura brasiliensis",
+        "upvotes": 80,
+        "downvotes": 53
+    },
+    {
+        "id": 25,
+        "joke": "Pycnonotus nigricans",
+        "upvotes": 86,
+        "downvotes": 80
+    },
+    {
+        "id": 26,
+        "joke": "Tetracerus quadricornis",
+        "upvotes": 36,
+        "downvotes": 17
+    },
+    {
+        "id": 27,
+        "joke": "Erethizon dorsatum",
+        "upvotes": 59,
+        "downvotes": 82
+    },
+    {
+        "id": 28,
+        "joke": "Nycticorax nycticorax",
+        "upvotes": 19,
+        "downvotes": 29
+    },
+    {
+        "id": 29,
+        "joke": "Otaria flavescens",
+        "upvotes": 48,
+        "downvotes": 74
+    },
+    {
+        "id": 30,
+        "joke": "Elephas maximus bengalensis",
+        "upvotes": 25,
+        "downvotes": 4
+    },
+    {
+        "id": 31,
+        "joke": "Lamprotornis chalybaeus",
+        "upvotes": 44,
+        "downvotes": 11
+    },
+    {
+        "id": 32,
+        "joke": "Castor fiber",
+        "upvotes": 10,
+        "downvotes": 46
+    },
+    {
+        "id": 33,
+        "joke": "Threskionis aethiopicus",
+        "upvotes": 34,
+        "downvotes": 25
+    },
+    {
+        "id": 34,
+        "joke": "Ovibos moschatus",
+        "upvotes": 82,
+        "downvotes": 4
+    },
+    {
+        "id": 35,
+        "joke": "Leptoptilos crumeniferus",
+        "upvotes": 6,
+        "downvotes": 83
+    },
+    {
+        "id": 36,
+        "joke": "Anas bahamensis",
+        "upvotes": 67,
+        "downvotes": 84
+    },
+    {
+        "id": 37,
+        "joke": "Pedetes capensis",
+        "upvotes": 34,
+        "downvotes": 54
+    },
+    {
+        "id": 38,
+        "joke": "Dendrohyrax brucel",
+        "upvotes": 54,
+        "downvotes": 49
+    },
+    {
+        "id": 39,
+        "joke": "Phoenicopterus chilensis",
+        "upvotes": 87,
+        "downvotes": 16
+    },
+    {
+        "id": 40,
+        "joke": "Chordeiles minor",
+        "upvotes": 98,
+        "downvotes": 19
+    },
+    {
+        "id": 41,
+        "joke": "Coluber constrictor",
+        "upvotes": 57,
+        "downvotes": 88
+    },
+    {
+        "id": 42,
+        "joke": "Lutra canadensis",
+        "upvotes": 1,
+        "downvotes": 11
+    },
+    {
+        "id": 43,
+        "joke": "Centrocercus urophasianus",
+        "upvotes": 49,
+        "downvotes": 81
+    },
+    {
+        "id": 44,
+        "joke": "Canis lupus",
+        "upvotes": 60,
+        "downvotes": 9
+    },
+    {
+        "id": 45,
+        "joke": "Papio cynocephalus",
+        "upvotes": 58,
+        "downvotes": 87
+    },
+    {
+        "id": 46,
+        "joke": "Pelecanus occidentalis",
+        "upvotes": 29,
+        "downvotes": 39
+    },
+    {
+        "id": 47,
+        "joke": "Pavo cristatus",
+        "upvotes": 59,
+        "downvotes": 66
+    },
+    {
+        "id": 48,
+        "joke": "Streptopelia decipiens",
+        "upvotes": 39,
+        "downvotes": 75
+    },
+    {
+        "id": 49,
+        "joke": "Leprocaulinus vipera",
+        "upvotes": 7,
+        "downvotes": 90
+    },
+    {
+        "id": 50,
+        "joke": "Haematopus ater",
+        "upvotes": 22,
+        "downvotes": 63
+    },
+    {
+        "id": 50,
+        "joke": "banana",
+        "upvotes": 0,
+        "downvotes": 0
+    },
+    {
+        "id": 51,
+        "joke": "banana",
+        "upvotes": 0,
+        "downvotes": 0
+    },
+    {
+        "id": 52,
+        "joke": "it's been a while since the last wednesday",
+        "upvotes": 5,
+        "downvotes": 3
+    }
+]
