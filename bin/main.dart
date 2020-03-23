@@ -15,7 +15,11 @@ void main(List<String> arguments) async {
 
   jokesJson = jsonDecode(await jokesFile.readAsString());
   var addr = arguments.length != 0 ? arguments[0] : "0.0.0.0";
-  int port = arguments.length == 2 ? int.parse(arguments[1]) : 8080;
+  int port = arguments.length == 2
+      ? int.parse(arguments[1])
+      : int.parse(Platform.environment['PORT'] != null
+          ? Platform.environment['PORT']
+          : '8080');
   var server = await HttpServer.bind(addr, port);
   print('Serving at ${server.address}:${server.port}');
 
